@@ -1,7 +1,7 @@
 # Mathematical Statistics Syllabus
 MATH 452/522 - 01
 
-2021
+Spring 2021
 
 Remote & Asynchronous
 
@@ -13,6 +13,7 @@ Jones 111
 
 ## Office Hours:
 Tuesday 3-4 PM EST
+
 Thursday 9-10 AM EST
 
 ## Grade Breakdown
