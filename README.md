@@ -14,7 +14,7 @@
 
 lecture number | date to watch | lecture name | written notes (.pdf) | video (youtube) |
 - | - | - | - | - |
-1 | 1-28 | random samples, statistics, exponential families| [lecture 1](lns/lec1.pdf) | ... |
+1 | 1-28 | random samples and statistics| [lecture 1](lns/lec1.pdf) | [lecture 1](https://youtu.be/OJ0woGBtGx4) |
 
 
 ## quiz problems
@@ -27,7 +27,7 @@ date posted | link | due | corresponding lectures |
 
 date posted | link | reading | corresponding lectures |
 - | - | - | - |
-1-28 | [sp1](sps/sp1.pdf) |  reading | 1 | 
+1-28 | Leemis Problems Ch 1 # 20, 21, 23, 25, 26  | C+B 5.1-5.2 (stop at Theorem 5.2.9), skim Leemis 1.2 - 1.4,  | 1 | 
 
 
 
