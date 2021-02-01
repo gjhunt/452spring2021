@@ -22,13 +22,13 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 ## quiz problems
 
 date posted | link | due | corresponding lectures |
-- | - | - | - |
+--- | --- | --- | --- |
 1-28 | [qp1](qps/qp1.pdf) | 2-4 | 1 | 
 
 ## suggested problems and reading
 
 date posted | link | reading | corresponding lectures |
-- | - | - | - |
+--- | --- | --- | --- |
 1-28 | Leemis Problems Ch 1 # 20, 21, 23, 25, 26  | C+B 5.1-5.2 (stop at Theorem 5.2.9), skim Leemis 1.2 - 1.4,  | 1 | 
 
 
