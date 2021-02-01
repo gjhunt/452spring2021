@@ -13,7 +13,7 @@
 ## lecture notes and videos
 
 lecture number | date to watch | lecture name | written notes (.pdf) | video (youtube) |
-- | - | - | - | - |
+--- | --- | --- | --- | --- |
 1 | 1-28 | random samples and statistics| [lecture 1](lns/lec1.pdf) | [lecture 1](https://youtu.be/OJ0woGBtGx4) |
 2 | 2-02 | normal statistics| [lecture 2](lns/lec2.pdf) | [lecture 2](https://youtu.be/VDzTVhYpSas) |
 3 | 2-04 | sufficiency| [lecture 3](lns/lec3.pdf) | [lecture 3](https://youtu.be/9RsodDdrbOA) |
