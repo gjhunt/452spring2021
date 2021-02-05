@@ -24,7 +24,7 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 date posted | link | due | corresponding lectures |
 --- | --- | --- | --- |
 1-28 | [qp1](qps/qp1.pdf) | 2-4 | 1 |
-2-4 | [qp2](qps/qp2.pdf) | 2-4 | 2-3 | 
+2-4 | [qp2](qps/qp2.pdf) | 2-11 | 2-3 | 
 
 ## suggested problems and reading
 
