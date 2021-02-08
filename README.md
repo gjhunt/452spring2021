@@ -17,6 +17,8 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 1 | 1-28 | random samples and statistics| [lecture 1](lns/lec1.pdf) | [lecture 1](https://youtu.be/OJ0woGBtGx4) |
 2 | 2-02 | normal statistics| [lecture 2](lns/lec2.pdf) | [lecture 2](https://youtu.be/VDzTVhYpSas) |
 3 | 2-04 | sufficiency| [lecture 3](lns/lec3.pdf) | [lecture 3](https://youtu.be/9RsodDdrbOA) |
+4 | 2-09 | method of moments | [lecture 4](lns/lec4.pdf) | [lecture 4](https://youtu.be/mB14L8neaq4) |
+5 | 2-11 | maximum likelihood estimation | [lecture 5](lns/lec5.pdf) | [lecture 5](https://youtu.be/ki0FiF5HMrg) | 
 
 
 ## quiz problems
