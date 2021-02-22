@@ -20,7 +20,9 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 4 | 2-09 | method of moments | [lecture 4](lns/lec4.pdf) | [lecture 4](https://youtu.be/mB14L8neaq4) |
 5 | 2-11 | maximum likelihood estimation | [lecture 5](lns/lec5.pdf) | [lecture 5](https://youtu.be/ki0FiF5HMrg) |
 6 | 2-16 | more MLEs | [lecture 6](lns/lec6.pdf) | [lecture 6](https://youtu.be/bGPcPIJEMg4) |
-7 | 2-18 | evaluation | [lecture 7](lns/lec7.pdf) | [lecture 7](https://youtu.be/HNOf7_i2CNU) | 
+7 | 2-18 | evaluation | [lecture 7](lns/lec7.pdf) | [lecture 7](https://youtu.be/HNOf7_i2CNU) |
+8 | 2-23 |  UMVUEs | [lecture 8](lns/lec8.pdf) | [lecture 8](https://youtu.be/XqLqiG4UK0A) |
+9 | 2-25 | Fisher Information | [lecture 9](lns/lec9.pdf) | [lecture 9](https://youtu.be/kzFbHg_vbKY) | 
 
 ## quiz problems
 
