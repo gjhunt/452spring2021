@@ -32,6 +32,7 @@ date posted | link | due | corresponding lectures |
 2-4 | [qp2](qps/qp2.pdf) | 2-11 | 2-3 |
 2-11 | [qp3](qps/qp3.pdf) | 2-18 | 4-5 |
 2-18 | [qp4](qps/qp4.pdf) | 2-25 | 5-7 |
+2-25 | [qp5](qps/qp5.pdf) | 3-4 | 8-9 |
 
 ## suggested problems and reading
 
@@ -40,7 +41,8 @@ num | date posted | problems | reading | corresponding lectures |
 1 | 1-28 | Leemis Problems Ch 1 #(20, 21, 23, 25, 26)  | C+B 5.1-5.2 (stop at Theorem 5.2.9), skim Leemis 1.2 - 1.4,  | 1 |
 2 | 2-4 | Leemis Problems Ch 1 #(48, 51, 63, 64, 76), Ch 2 #(52c, 57a, 64b, 66, 72) | C+B 5.3, 6.1, 6.2, Leemis 1.5, 2.4 on sufficiency (pg 166-174)   | 2-3 |
 3 | 2-11 | Leemis Problems Ch 2 #(2.1a, 2.2b, 3, 4, 5a, 7 ,47, 52a, 84a) | C+B 7.1, 7.2.1, 7.2.2, Leemis 2.1-2.3 | 4-5 |
-4 | 2-18 | Leemis Problems  1b, 5b, 48, 49, 62, 11a, 13, 35a, 20, 81a  | C+B 7.2.2, 7.3.1, Leemis 2.3, 2.4 (until Efficient Estimators)| 4-5 | 
+4 | 2-18 | Leemis Problems  1b, 5b, 48, 49, 62, 11a, 13, 35a, 20, 81a  | C+B 7.2.2, 7.3.1, Leemis 2.3, 2.4 (until Efficient Estimators)| 5-7 |
+5 | 2-25 | [SP5](sps/sp5.pdf) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 8-9 | 
 
 
 
