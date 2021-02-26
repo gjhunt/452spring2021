@@ -32,7 +32,7 @@ date posted | link | due | corresponding lectures |
 2-4 | [qp2](qps/qp2.pdf) | 2-11 | 2-3 |
 2-11 | [qp3](qps/qp3.pdf) | 2-18 | 4-5 |
 2-18 | [qp4](qps/qp4.pdf) | 2-25 | 5-7 |
-2-25 | [qp5](qps/qp5.pdf) | 3-4 | 8-9 |
+2-25 | [qp5](qps/qp5.pdf) | 3-5 | 8-9 |
 
 ## suggested problems and reading
 
