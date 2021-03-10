@@ -22,7 +22,8 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 6 | 2-16 | more MLEs | [lecture 6](lns/lec6.pdf) | [lecture 6](https://youtu.be/bGPcPIJEMg4) |
 7 | 2-18 | evaluation | [lecture 7](lns/lec7.pdf) | [lecture 7](https://youtu.be/HNOf7_i2CNU) |
 8 | 2-23 |  UMVUEs | [lecture 8](lns/lec8.pdf) | [lecture 8](https://youtu.be/XqLqiG4UK0A) |
-9 | 2-25 | Fisher Information | [lecture 9](lns/lec9.pdf) | [lecture 9](https://youtu.be/kzFbHg_vbKY) | 
+9 | 2-25 | Fisher Information | [lecture 9](lns/lec9.pdf) | [lecture 9](https://youtu.be/kzFbHg_vbKY) |
+10 | 3-11 | Cramer-Rao Lower Bound | [lecture 10](lns/lec10.pdf) | [lecture 10](https://youtu.be/Y3zOblgTfhw) | 
 
 ## quiz problems
 
@@ -33,6 +34,7 @@ date posted | link | due | corresponding lectures |
 2-11 | [qp3](qps/qp3.pdf) | 2-18 | 4-5 |
 2-18 | [qp4](qps/qp4.pdf) | 2-25 | 5-7 |
 2-25 | [qp5](qps/qp5.pdf) | 3-5 | 8-9 |
+3-11 | [qp6](qps/qp6.pdf) | 3-18 | 9-10 |
 
 ## suggested problems and reading
 
@@ -41,8 +43,9 @@ num | date posted | problems | reading | corresponding lectures |
 1 | 1-28 | Leemis Problems Ch 1 #(20, 21, 23, 25, 26)  | C+B 5.1-5.2 (stop at Theorem 5.2.9), skim Leemis 1.2 - 1.4,  | 1 |
 2 | 2-4 | Leemis Problems Ch 1 #(48, 51, 63, 64, 76), Ch 2 #(52c, 57a, 64b, 66, 72) | C+B 5.3, 6.1, 6.2, Leemis 1.5, 2.4 on sufficiency (pg 166-174)   | 2-3 |
 3 | 2-11 | Leemis Problems Ch 2 #(2.1a, 2.2b, 3, 4, 5a, 7 ,47, 52a, 84a) | C+B 7.1, 7.2.1, 7.2.2, Leemis 2.1-2.3 | 4-5 |
-4 | 2-18 | Leemis Problems  1b, 5b, 48, 49, 62, 11a, 13, 35a, 20, 81a  | C+B 7.2.2, 7.3.1, Leemis 2.3, 2.4 (until Efficient Estimators)| 5-7 |
-5 | 2-25 | [SP5](sps/sp5.pdf) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 8-9 | 
+4 | 2-18 | Leemis Problems  Ch 2 #(1b, 5b, 48, 49, 62, 11a, 13, 35a, 20, 81a)  | C+B 7.2.2, 7.3.1, Leemis 2.3, 2.4 (until Efficient Estimators)| 5-7 |
+5 | 2-25 | [SP5](sps/sp5.pdf) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 8-9 |
+6 | 3-11 | Leemis Ch 2 #(52b,53,67,76) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 9-10 | 
 
 
 
