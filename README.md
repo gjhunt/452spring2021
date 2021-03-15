@@ -23,7 +23,9 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 7 | 2-18 | evaluation | [lecture 7](lns/lec7.pdf) | [lecture 7](https://youtu.be/HNOf7_i2CNU) |
 8 | 2-23 |  UMVUEs | [lecture 8](lns/lec8.pdf) | [lecture 8](https://youtu.be/XqLqiG4UK0A) |
 9 | 2-25 | Fisher Information | [lecture 9](lns/lec9.pdf) | [lecture 9](https://youtu.be/kzFbHg_vbKY) |
-10 | 3-11 | Cramer-Rao Lower Bound | [lecture 10](lns/lec10.pdf) | [lecture 10](https://youtu.be/Y3zOblgTfhw) | 
+10 | 3-11 | Cramer-Rao Lower Bound | [lecture 10](lns/lec10.pdf) | [lecture 10](https://youtu.be/Y3zOblgTfhw) |
+11 | 3-16 | attainment | [lecture 11](lns/lec11.pdf) | [lecture 11](https://youtu.be/11fsy8J7288) |
+12 | 3-18 | iterated expectation and Rao-Blackwell | [lecture 12](lns/lec12.pdf) | [lecture 12](https://youtu.be/rlxsPGcABy0) | 
 
 ## quiz problems
 
