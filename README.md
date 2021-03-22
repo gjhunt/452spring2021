@@ -25,7 +25,9 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 9 | 2-25 | Fisher Information | [lecture 9](lns/lec9.pdf) | [lecture 9](https://youtu.be/kzFbHg_vbKY) |
 10 | 3-11 | Cramer-Rao Lower Bound | [lecture 10](lns/lec10.pdf) | [lecture 10](https://youtu.be/Y3zOblgTfhw) |
 11 | 3-16 | attainment | [lecture 11](lns/lec11.pdf) | [lecture 11](https://youtu.be/11fsy8J7288) |
-12 | 3-18 | iterated expectation and Rao-Blackwell | [lecture 12](lns/lec12.pdf) | [lecture 12](https://youtu.be/rlxsPGcABy0) | 
+12 | 3-18 | iterated expectation and Rao-Blackwell | [lecture 12](lns/lec12.pdf) | [lecture 12](https://youtu.be/rlxsPGcABy0) |
+13 | 3-23 | Lehmann-Scheffe | [lecture 13](lns/lec13.pdf) | [lecture 13](https://youtu.be/4rKSMsprPFs) |
+14 | 3-25 | inequalities and convergence | [lecture 14](lns/lec14.pdf) | [lecture 14](https://youtu.be/AIlS5cdFL9U) | 
 
 ## quiz problems
 
@@ -48,7 +50,8 @@ num | date posted | problems | reading | corresponding lectures |
 3 | 2-11 | Leemis Problems Ch 2 #(2.1a, 2.2b, 3, 4, 5a, 7 ,47, 52a, 84a) | C+B 7.1, 7.2.1, 7.2.2, Leemis 2.1-2.3 | 4-5 |
 4 | 2-18 | Leemis Problems  Ch 2 #(1b, 5b, 48, 49, 62, 11a, 13, 35a, 20, 81a)  | C+B 7.2.2, 7.3.1, Leemis 2.3, 2.4 (until Efficient Estimators)| 5-7 |
 5 | 2-25 | [SP5](sps/sp5.pdf) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 8-9 |
-6 | 3-11 | Leemis Ch 2 #(52b,53,67,76) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 9-10 | 
+6 | 3-11 | Leemis Ch 2 #(52b,53,67,76) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 9-10 |
+7 | 3-22 | [SP7](sps/sp7.pdf) | C+B 7.3.3, 5.5 (up through Theorem 5.5.14), Leemis 3.5 (pp 176 - end) | 11-13 | 
 
 
 
