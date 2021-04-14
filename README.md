@@ -30,7 +30,7 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 14 | 3-25 | inequalities and convergence | [lecture 14](lns/lec14.pdf) | [lecture 14](https://youtu.be/AIlS5cdFL9U) | 
 15 | 3-30 | more convergence | [lecture 15](lns/lec15.pdf) | [lecture 15](https://youtu.be/9DszdugeQIc) |
 16 | 4-1 | LLNs and CLTs | [lecture 16](lns/lec16.pdf) | [lecture 16](https://youtu.be/pKjTb4yBFng) |
-
+17 | 4-15 | central limit theorem | [lecture 17](lns/lec17.pdf) | [lecture 17](https://youtu.be/XRrRFLFyIxE) |
 
 ## quiz problems
 
