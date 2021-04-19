@@ -31,6 +31,8 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 15 | 3-30 | more convergence | [lecture 15](lns/lec15.pdf) | [lecture 15](https://youtu.be/9DszdugeQIc) |
 16 | 4-1 | LLNs and CLTs | [lecture 16](lns/lec16.pdf) | [lecture 16](https://youtu.be/pKjTb4yBFng) |
 17 | 4-15 | central limit theorem | [lecture 17](lns/lec17.pdf) | [lecture 17](https://youtu.be/XRrRFLFyIxE) |
+18 | 4-20 | MLE asymptotics | [lecture 18](lns/lec18.pdf) | [lecture 18](https://youtu.be/AfFSNKacgjg) |
+19 | 4-22 | hypothesis testing | [lecture 19](lns/lec19.pdf) | [lecture 19](https://youtu.be/vC2NrZAi2nk) |
 
 ## quiz problems
 
@@ -45,6 +47,7 @@ date posted | link | due | corresponding lectures |
 3-18 | [qp7](qps/qp7.pdf) | 3-25 | 11-12 |
 3-25 | [qp8](qps/qp8.pdf) | 4-1 | 12-13 |
 4-1 | [qp9](qps/qp9.pdf) | 4-8 | 14-16 |
+4-20 | [qp10](qps/qp10.pdf) | 4-27 | 17-18 |
 
 ## suggested problems and reading
 
@@ -57,7 +60,8 @@ num | date posted | problems | reading | corresponding lectures |
 5 | 2-25 | [SP5](sps/sp5.pdf) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 8-9 |
 6 | 3-11 | Leemis Ch 2 #(52b,53,67,76) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 9-10 |
 7 | 3-22 | [SP7](sps/sp7.pdf) | C+B 7.3.3, 5.5 (up through Theorem 5.5.14), Leemis 3.5 (pp 176 - end) | 11-13 |
-8 | 3-25 | [SP8](sps/sp8.pdf) | C+B 5.5 (up through Theorem 5.5.14) | 14-16 | 
+8 | 3-25 | [SP8](sps/sp8.pdf) | C+B 5.5 (up through Theorem 5.5.14) | 14-16 |
+9 | 4-20 | [SP9](sps/sp9.pdf) | C+B 5.5.4, 8.1 | 17-18 | 
 
 
 
