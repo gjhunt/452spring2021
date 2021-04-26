@@ -33,6 +33,8 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 17 | 4-15 | central limit theorem | [lecture 17](lns/lec17.pdf) | [lecture 17](https://youtu.be/XRrRFLFyIxE) |
 18 | 4-20 | MLE asymptotics | [lecture 18](lns/lec18.pdf) | [lecture 18](https://youtu.be/AfFSNKacgjg) |
 19 | 4-22 | hypothesis testing | [lecture 19](lns/lec19.pdf) | [lecture 19](https://youtu.be/vC2NrZAi2nk) |
+20 | 4-27 | likelihood ratio test | [lecture 20](lns/lec20.pdf) | [lecture 20](https://youtu.be/9RvLy554NnI) |
+21 | 4-29 | most powerful tests | [lecture 21](lns/lec21.pdf) | [lecture 21](https://youtu.be/Rv9MWamGIC8) |
 
 ## quiz problems
 
@@ -61,7 +63,8 @@ num | date posted | problems | reading | corresponding lectures |
 6 | 3-11 | Leemis Ch 2 #(52b,53,67,76) | C+B 7.3.2, Leemis 2.5 (Efficient Estimators through Ex 2.21 | 9-10 |
 7 | 3-22 | [SP7](sps/sp7.pdf) | C+B 7.3.3, 5.5 (up through Theorem 5.5.14), Leemis 3.5 (pp 176 - end) | 11-13 |
 8 | 3-25 | [SP8](sps/sp8.pdf) | C+B 5.5 (up through Theorem 5.5.14) | 14-16 |
-9 | 4-20 | [SP9](sps/sp9.pdf) | C+B 5.5.4, 8.1 | 17-18 | 
+9 | 4-20 | [SP9](sps/sp9.pdf) | C+B 5.5.4, 8.1 | 17-18 |
+10 | 4-27 | Leemis Ch 4 #(84h,85fgh,86,87e,88c) | C+B 8.2.1,8.3.1,8.3.2, Leemis 4.1, 4.6, 4.7| 17-18 | 
 
 
 
