@@ -50,6 +50,7 @@ date posted | link | due | corresponding lectures |
 3-25 | [qp8](qps/qp8.pdf) | 4-1 | 12-13 |
 4-1 | [qp9](qps/qp9.pdf) | 4-8 | 14-16 |
 4-20 | [qp10](qps/qp10.pdf) | 4-27 | 17-18 |
+4-27 | [qp11](qps/qp11.pdf) | 5-04 | 19-21 |
 
 ## suggested problems and reading
 
@@ -64,7 +65,7 @@ num | date posted | problems | reading | corresponding lectures |
 7 | 3-22 | [SP7](sps/sp7.pdf) | C+B 7.3.3, 5.5 (up through Theorem 5.5.14), Leemis 3.5 (pp 176 - end) | 11-13 |
 8 | 3-25 | [SP8](sps/sp8.pdf) | C+B 5.5 (up through Theorem 5.5.14) | 14-16 |
 9 | 4-20 | [SP9](sps/sp9.pdf) | C+B 5.5.4, 8.1 | 17-18 |
-10 | 4-27 | Leemis Ch 4 #(84h,85fgh,86,87e,88c) | C+B 8.2.1,8.3.1,8.3.2, Leemis 4.1, 4.6, 4.7| 17-18 | 
+10 | 4-27 | Leemis Ch 4 #(84h,85fgh,86,87e,88c) | C+B 8.2.1,8.3.1,8.3.2, Leemis 4.1, 4.6, 4.7| 19-21 | 
 
 
 
