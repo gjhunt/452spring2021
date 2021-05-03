@@ -35,6 +35,7 @@ lecture number | date to watch | lecture name | written notes (.pdf) | video (yo
 19 | 4-22 | hypothesis testing | [lecture 19](lns/lec19.pdf) | [lecture 19](https://youtu.be/vC2NrZAi2nk) |
 20 | 4-27 | likelihood ratio test | [lecture 20](lns/lec20.pdf) | [lecture 20](https://youtu.be/9RvLy554NnI) |
 21 | 4-29 | most powerful tests | [lecture 21](lns/lec21.pdf) | [lecture 21](https://youtu.be/Rv9MWamGIC8) |
+22 | 5-04 | karlin-rubin | [lecture 22](lns/lec22.pdf) | [lecture 22](https://youtu.be/JIwD_kvFEFM) |
 
 ## quiz problems
 
